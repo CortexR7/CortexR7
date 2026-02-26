@@ -1,4 +1,4 @@
-## 👋 Hello
+## 👋 Hello       :)
 
 I’m a person who likes to understand things in depth.
 
