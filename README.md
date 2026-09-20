@@ -1,11 +1,7 @@
-## 👋 Hi there      :)
+## Hi, I'm CortexR7
 
-I’m a person who likes to understand things in depth.
+I like understanding things in depth.
+Physics and mathematics, low-level programming, computer graphics.
 
-### 🧠 Interests
-- Physics and mathematics  
-- Low-level programming  
-- Computer graphics
-
-### 🎮 Current Focus
-I’m currently focusing on **GPU programming with Vulkan**, learning how modern graphics pipelines work and how software interacts with GPU hardware.
+Currently focused on **GPU programming with Vulkan**: how modern graphics
+pipelines work and how software interacts with GPU hardware.
